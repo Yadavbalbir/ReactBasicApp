@@ -1,0 +1,10 @@
+.title{
+    text-decoration: none;
+    color: aqua;
+    font-size: larger;
+    
+}
+
+.title:hover{
+    color: aquamarine;
+}

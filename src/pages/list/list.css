@@ -1,0 +1,21 @@
+.searchResult{
+    background-color: white;
+}
+
+
+.search{
+    position: sticky;
+    top: 20px;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.wrapper{
+    max-width: 1124px;
+    margin: 0px auto;
+
+}
+
+.rowgap{
+    gap: 20px;
+}

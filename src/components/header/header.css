@@ -1,0 +1,19 @@
+.headerList{
+    color: white;
+    display: flex;
+    justify-content:left;
+    margin: 20px 0px 0px 0px;
+    gap: 40px;
+}
+
+.headerListItem{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.headerListItem.active{
+    border: 1px solid white;
+    padding: 8px;
+    border-radius: 20px;
+}
